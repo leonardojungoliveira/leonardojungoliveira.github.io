@@ -1,0 +1,47 @@
+h2 {
+    color: red
+}
+
+.topo {
+    width: 1000px;
+    background: #444;
+    height: 200px;
+    margin: 0 auto;
+}
+
+#conteudo {
+    width: 95%;
+    background: #ccc;
+    height: 400px;
+    margin: 10 auto;
+}
+
+.rodape {
+    width: 95%;
+    background: #000;
+    height: 400px;
+    margin: 10 auto;
+    color: white;
+}
+
+.menu {
+    width: 95%;
+    margin: 10px auto;
+    height: 40px;
+}
+
+.menu ul li {
+    float: left;
+    list-style: none;
+}
+
+.menu ul li a {
+    padding: 10px;
+    background: red;
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu ul li a:hover {
+    background: cadetblue;
+}
